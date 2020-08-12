@@ -15,6 +15,11 @@ public class Test02 {
     }
 
 
+    @MyAnnotation2(name = "zhansan", color = "red")
+    public void dosome1() {
+
+    }
+
     @Override
     public String toString() {
         return super.toString();

@@ -26,6 +26,7 @@ public class Counter {
                     }
                 }
             });
+
             ts.add(t);
         }
         for (Thread t:ts
@@ -42,13 +43,13 @@ public class Counter {
     }
 
     /**
-     * cas 方法
+     * cas 实现线程安全计数器
      */
 
     private void safeCount() {
         for (;;){
             int i = atomicInteger.get();
-            boolean b = atomicInteger.compareAndSet(i, i++);
+            boolean b = atomicInteger.compareAndSet(i, ++i);
             if(b){
                 break;
             }

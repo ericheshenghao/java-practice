@@ -7,7 +7,7 @@ public class Test01 {
     }
 
     // 可以不写value
-//    @Myannotion3( "23")
+    @MyAnnotion3(value = "sdf",value5 = Season.SPRING)
     public void dosome1() {
 
     }

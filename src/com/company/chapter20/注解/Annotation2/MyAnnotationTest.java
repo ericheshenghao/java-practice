@@ -7,6 +7,7 @@ import java.lang.reflect.Method;
 public class MyAnnotationTest {
 
     @MyAnnotation2(name = "heshenghao", color = "red", age = 12)
+
     public void dosome() {
 
     }

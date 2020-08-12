@@ -2,7 +2,8 @@ package com.设计模式及实践.第二章__创建型模式.工厂模式.简单
 
 class main{
     public static void main(String[] args) {
-        VehicleFactory.create(VehicleFactory.VehicheType.Bike);
+        Vehicle vehicle = VehicleFactory.create(VehicleFactory.VehicheType.Bike);
+        vehicle.travel();
     }
 }
 
@@ -13,7 +14,7 @@ public class VehicleFactory {
     public static Vehicle create (VehicheType type){
         if(type.equals(VehicheType.Bike)){
             System.out.println("创建了自行车");
-//            return new Bike();
+            return new Bike();
         }
         if(type.equals(VehicheType.Car)){
 
@@ -27,11 +28,28 @@ public class VehicleFactory {
 
 }
 
-class Vehicle{
-
+abstract  class Vehicle{
+   abstract void travel();
 }
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  class Car extends Vehicle{
 
-}class Truck extends Vehicle{
+class Bike extends Vehicle{
+    @Override
+    void travel() {
+        System.out.println("自行车在开");
+    }
+}
 
+class Car extends Vehicle{
+    @Override
+    void travel() {
+        System.out.println("汽车在开");
+    }
+}
+
+class Truck extends Vehicle{
+
+    @Override
+    void travel() {
+        System.out.println("卡车在开");
+    }
 }

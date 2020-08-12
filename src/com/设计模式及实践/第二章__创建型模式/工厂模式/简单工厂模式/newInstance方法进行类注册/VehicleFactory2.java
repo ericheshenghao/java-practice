@@ -9,7 +9,7 @@ class main{
     public static void main(String[] args) throws InstantiationException, IllegalAccessException {
 
         VehicleFactory2.registerVehicle("1", new Bike());
-        new VehicleFactory2().createVehicle("1");
+        Vehicle vehicle = new VehicleFactory2().createVehicle("1");
 
 
     }

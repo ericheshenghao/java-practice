@@ -13,6 +13,7 @@ public @interface MyAnnotation2 {
      *
      * @return
      */
+
     String name();
 
     String color();
