@@ -10,7 +10,7 @@ import java.lang.reflect.Method;
 
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)
-public @interface MyAnnotion3 {
+ @interface MyAnnotion3 {
     String value();
 
     /*
