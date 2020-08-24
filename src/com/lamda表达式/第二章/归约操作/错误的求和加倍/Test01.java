@@ -1,0 +1,12 @@
+package com.lamda表达式.第二章.归约操作.错误的求和加倍;
+
+import java.util.stream.IntStream;
+
+public class Test01 {
+    public static void main(String[] args) {
+        int i = IntStream.rangeClosed(1, 10)
+                .reduce((x, y) -> x + 2 * y)
+                .orElse(0);
+        System.out.println(i);
+    }
+}
