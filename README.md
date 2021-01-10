@@ -16,7 +16,13 @@ Shane的力扣笔记本
  - **stack - medium**
     - [x] [189. 旋转数组](https://leetcode-cn.com/problems/rotate-array/)
       - [源码位置](src/com/日期归档/l2021年01月08日/旋转数组/Solution.java)
-  ## 2021/1/9
-  - **stack - difficult**
-     - [x] [123. 买卖股票的最佳时机 III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/)
-       - [源码位置](src/com/日期归档/l2021年01月09日/买卖股票的最佳时机III/Solution.java)
+## 2021/1/9
+- **stack - difficult**
+ - [x] [123. 买卖股票的最佳时机 III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/)
+   - [源码位置](src/com/日期归档/l2021年01月09日/买卖股票的最佳时机III/Solution.java)
+## 2021/1/9
+- **stack - easy**
+ - [x] [228. 汇总区间](https://leetcode-cn.com/problems/summary-ranges/)
+   - [源码位置](src/com/日期归档/l2021年01月10日/汇总区间/Solution.java)
+ - [x] [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)
+   - [源码位置](src/com/日期归档/l2021年01月10日/最大子序和/Solution.java)
