@@ -6,8 +6,8 @@ Shane的力扣笔记本
    - [x] [399.除法求值](https://leetcode-cn.com/problems/evaluate-division/)
      - [源码位置](src/com/日期归档/l2021年01月06日/除法求值/Solution.java)
 ## 2021/1/7
-- **stack - medium**
-   - [x] [547.省份数量](https://leetcode-cn.com/problems/number-of-provinces/)
+- **stack - medium**数组中的第K个最大元素
+ttps://leetcode-cn.com/problems/number-of-provinces/)
      - [源码位置](src/com/日期归档/l2021年01月07日/省份数量/Solution.java)
 - **stack - easy**
    - [x] [03.数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)
@@ -32,4 +32,12 @@ Shane的力扣笔记本
    - [源码位置](src/com/日期归档/l2021年01月11日/交换字符串中的元素/Solution.java)
   - [ ] [470. 用 Rand7() 实现 Rand10()](https://leetcode-cn.com/problems/implement-rand10-using-rand7/)
     - [源码位置](src/com/日期归档/l2021年01月11日/用Rand7实现Rand10/Solution.java)
+## 2021/1/12
+- **stack - medium**
+ - [x] [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
+   - [源码位置](src/com/日期归档/l2021年01月12日/数组中的第个最大元素/Solution.java)
+ - [x] [112. 路径总和](https://leetcode-cn.com/problems/path-sum/)
+   - [源码位置](src/com/日期归档/l2021年01月12日/路经总和/Solution.java)
+ 
+  
   
