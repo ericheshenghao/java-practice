@@ -38,6 +38,12 @@ ttps://leetcode-cn.com/problems/number-of-provinces/)
    - [源码位置](src/com/日期归档/l2021年01月12日/数组中的第个最大元素/Solution.java)
  - [x] [112. 路径总和](https://leetcode-cn.com/problems/path-sum/)
    - [源码位置](src/com/日期归档/l2021年01月12日/路经总和/Solution.java)
+## 2021/1/13
+- **stack - medium**
+ - [x] [684. 冗余连接](https://leetcode-cn.com/problems/redundant-connection/)
+   - [源码位置](src/com/日期归档/l2021年01月13日/冗余连接/Solution.java)
+ - [x] [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)
+   - [源码位置](src/com/日期归档/l2021年01月13日/用栈实现队列/Solution.java)
  
   
   
