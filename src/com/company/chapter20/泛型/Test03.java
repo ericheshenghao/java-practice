@@ -1,7 +1,7 @@
 package com.company.chapter20.泛型;
 
 import com.company.chapter20.单向链表.Test;
-import com.sun.org.apache.bcel.internal.generic.NEW;
+
 
 public class Test03<E> {
     public void dosome(E o) {

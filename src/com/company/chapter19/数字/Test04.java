@@ -1,6 +1,5 @@
 package com.company.chapter19.数字;
 
-import com.sun.org.apache.xpath.internal.objects.XBoolean;
 
 import java.util.Random;
 

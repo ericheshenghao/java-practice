@@ -1,6 +1,5 @@
 package com.company.chapter20.反射.Construct;
 
-import com.sun.org.apache.xpath.internal.operations.Mod;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Modifier;

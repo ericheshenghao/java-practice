@@ -1,6 +1,6 @@
 package com.company.chapter20.线程安全.死锁;
 
-import javafx.beans.binding.ObjectExpression;
+
 
 /*
  死锁代码要会写
@@ -33,6 +33,7 @@ class Mythread1 extends Thread {
 
     }
 
+    @Override
     public void run() {
         synchronized (o1) {
             try {
@@ -58,6 +59,7 @@ class Mythread2 extends Thread {
 
     }
 
+    @Override
     public void run() {
         synchronized (o2) {
             try {
