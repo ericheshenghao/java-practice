@@ -46,5 +46,11 @@ ttps://leetcode-cn.com/problems/number-of-provinces/)
    - [源码位置](src/com/日期归档/l2021年01月13日/用栈实现队列/Solution.java)
  - [x] [剑指 Offer 11. 旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/)
    - [源码位置](src/com/日期归档/l2021年01月13日/旋转数组的最小数字/Solution.java) 
-  
+## 2021/1/14
+- **stack - medium**
+ - [x] [1018. 可被 5 整除的二进制前缀](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/)
+   - [源码位置](src/com/日期归档/l2021年01月14日/可被5整除的二进制前缀/Solution.java)
+ - [x] [1018. 递增子序列](https://leetcode-cn.com/problems/increasing-subsequences/solution/di-zeng-zi-xu-lie-by-leetcode-solution/)
+   - [源码位置](src/com/日期归档/l2021年01月14日/递增子序列/Solution.java) 
+    
   
