@@ -52,5 +52,11 @@ ttps://leetcode-cn.com/problems/number-of-provinces/)
    - [源码位置](src/com/日期归档/l2021年01月14日/可被5整除的二进制前缀/Solution.java)
  - [x] [1018. 递增子序列](https://leetcode-cn.com/problems/increasing-subsequences/solution/di-zeng-zi-xu-lie-by-leetcode-solution/)
    - [源码位置](src/com/日期归档/l2021年01月14日/递增子序列/Solution.java) 
-    
-  
+## 2021/1/15
+- **stack - medium**
+ - [x] [947. 移除最多的同行或同列石头](https://leetcode-cn.com/problems/most-stones-removed-with-same-row-or-column/)
+   - [源码位置](src/com/日期归档/l2021年01月15日/移除最多的同行或同列石头/Solution.java)
+ - [x] [剑指 Offer 18. 删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/)
+   - [源码位置](src/com/日期归档/l2021年01月15日/删除链表的节点/Solution.java)
+ - [x] [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
+   - [源码位置](src/com/日期归档/l2021年01月15日/环形链表/Solution.java)  
