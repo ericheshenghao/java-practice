@@ -59,4 +59,12 @@ ttps://leetcode-cn.com/problems/number-of-provinces/)
  - [x] [剑指 Offer 18. 删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/)
    - [源码位置](src/com/日期归档/l2021年01月15日/删除链表的节点/Solution.java)
  - [x] [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
-   - [源码位置](src/com/日期归档/l2021年01月15日/环形链表/Solution.java)  
+   - [源码位置](src/com/日期归档/l2021年01月15日/环形链表/Solution.java) 
+## 2021/1/16
+- **stack - medium**
+ - [x] [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)
+   - [源码位置](src/com/日期归档/l2021年01月16日/删除排序链表中的重复元素II/Solution.java)
+ - [x] [1232. 缀点成线](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line/)
+   - [源码位置](src/com/日期归档/l2021年01月17日/缀点成线/Solution.java)
+ - [x] [剑指 Offer 10- I. 斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/)
+   - [源码位置](src/com/日期归档/l2021年01月17日/斐波那契数列/Solution.java)
