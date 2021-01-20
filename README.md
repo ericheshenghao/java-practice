@@ -60,7 +60,7 @@ ttps://leetcode-cn.com/problems/number-of-provinces/)
    - [源码位置](src/com/日期归档/l2021年01月15日/删除链表的节点/Solution.java)
  - [x] [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
    - [源码位置](src/com/日期归档/l2021年01月15日/环形链表/Solution.java) 
-## 2021/1/16
+## 2021/1/17
 - **stack - medium**
  - [x] [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)
    - [源码位置](src/com/日期归档/l2021年01月16日/删除排序链表中的重复元素II/Solution.java)
@@ -68,3 +68,25 @@ ttps://leetcode-cn.com/problems/number-of-provinces/)
    - [源码位置](src/com/日期归档/l2021年01月17日/缀点成线/Solution.java)
  - [x] [剑指 Offer 10- I. 斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/)
    - [源码位置](src/com/日期归档/l2021年01月17日/斐波那契数列/Solution.java)
+## 2021/1/18
+- **stack - medium**
+ - [x] [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)
+   - [源码位置](src/com/日期归档/l2021年01月16日/删除排序链表中的重复元素II/Solution.java)
+ - [x] [1232. 缀点成线](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line/)
+   - [源码位置](src/com/日期归档/l2021年01月17日/缀点成线/Solution.java)
+ - [x] [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
+   - [源码位置](src/com/日期归档/l2021年01月18日/最长递增子序列/Solution.java) 
+ - [ ] [673. 最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/)
+   - [源码位置](src/com/日期归档/l2021年01月18日/最长递增子序列的个数/Solution.java)
+## 2021/1/19
+- **stack - easy**
+ - [x] [70. 爬楼梯](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)
+   - [源码位置](src/com/日期归档/l2021年01月19日/爬楼梯/Solution.java)
+ - [x] [746. 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)
+   - [源码位置](src/com/日期归档/l2021年01月19日/使用最小花费爬楼梯/Solution.java) 
+ - [x] [673. 最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/)
+   - [源码位置](src/com/日期归档/l2021年01月19日/最长递增子序列的个数/Solution.java)
+## 2021/1/20
+- **stack - easy**
+ - [x] [剑指 Offer 25. 合并两个排序的链表](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/)
+   - [源码位置](src/com/日期归档/l2021年01月20日/合并两个排序的链表/Solution.java)
