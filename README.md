@@ -90,3 +90,7 @@ ttps://leetcode-cn.com/problems/number-of-provinces/)
 - **stack - easy**
  - [x] [剑指 Offer 25. 合并两个排序的链表](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/)
    - [源码位置](src/com/日期归档/l2021年01月20日/合并两个排序的链表/Solution.java)
+## 2021/1/21
+- **stack - easy**
+ - [x] [剑指 Offer 22. 链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)
+   - [源码位置](src/com/日期归档/l2021年01月21日/链表中倒数第k个节点/Solution.java)
