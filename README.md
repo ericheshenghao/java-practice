@@ -94,3 +94,24 @@ ttps://leetcode-cn.com/problems/number-of-provinces/)
 - **stack - easy**
  - [x] [剑指 Offer 22. 链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)
    - [源码位置](src/com/日期归档/l2021年01月21日/链表中倒数第k个节点/Solution.java)
+## 2021/1/22
+- **stack - easy**
+ - [x] [989. 数组形式的整数加法](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)
+   - [源码位置](src/com/日期归档/l2021年01月22日/数组形式的整数加法/Solution.java)
+## 2021/1/23
+- **stack - easy**
+ - [x] [剑指 Offer 59 - I. 滑动窗口的最大值](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/)
+   - [源码位置](src/com/日期归档/l2021年01月23日/滑动窗口的最大值/Solution.java)
+## 2021/1/24
+- **stack - easy**
+ - [x] [剑指 Offer 58 - II. 左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)
+   - [源码位置](src/com/日期归档/l2021年01月24日/左旋转字符串/Solution.java)
+## 2021/1/25
+- **stack - easy**
+ - [x] [剑指 Offer 64. 求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/)
+   - [源码位置](src/com/日期归档/l2021年01月25日/求和/Solution.java)
+ - [x] [剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)
+   - [源码位置](src/com/日期归档/l2021年01月25日/调整数组顺序使奇数位于偶数前面/Solution.java)
+ - [x] [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/)
+   - [源码位置](src/com/日期归档/l2021年01月25日/缺失的数字/Solution.java)
+      
