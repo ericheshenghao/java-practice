@@ -114,4 +114,20 @@ ttps://leetcode-cn.com/problems/number-of-provinces/)
    - [源码位置](src/com/日期归档/l2021年01月25日/调整数组顺序使奇数位于偶数前面/Solution.java)
  - [x] [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/)
    - [源码位置](src/com/日期归档/l2021年01月25日/缺失的数字/Solution.java)
-      
+## 2021/1/26
+- **stack - easy**
+ - [x] [剑指 Offer 17. 打印从1到最大的n位数](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/)
+   - [源码位置](src/com/日期归档/l2021年01月26日/打印从1到最大的n位数/Solution.java)
+## 2021/1/27
+- **stack - easy**
+ - [x] [剑指 Offer 57. 和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/)
+   - [源码位置](src/com/日期归档/l2021年01月27日/和为s的两个数字/Solution.java)
+ - [x] [剑指 Offer 56 - I. 数组中数字出现的次数](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/)
+   - [源码位置](src/com/日期归档/l2021年01月27日/数组中数字出现的次数/Solution.java)
+## 2021/1/28
+- **stack - medium**
+ - [x] [剑指 Offer 56 - II. 数组中数字出现的次数 II](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/)
+   - [源码位置](src/com/日期归档/l2021年01月28日/只出现一次的数字2/Solution.java)
+ - [x] [724. 寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index/)
+   - [源码位置](src/com/日期归档/l2021年01月28日/寻找数组的中心索引/Solution.java)
+  
