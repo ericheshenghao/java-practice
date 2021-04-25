@@ -1,13 +1,7 @@
-package cn.siques.手写RPC框架.server;
+package cn.siques.手写RPC框架.message;
 
-import cn.siques.手写RPC框架.server.Message;
-import io.netty.handler.codec.http.HttpResponseStatus;
-import io.netty.handler.codec.http.HttpStatusClass;
+import cn.siques.手写RPC框架.message.Message;
 import lombok.Data;
-import lombok.Getter;
-import lombok.Setter;
-
-import javax.swing.event.MenuEvent;
 
 /**
  * @author : heshenghao

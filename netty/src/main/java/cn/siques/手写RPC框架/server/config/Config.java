@@ -1,4 +1,4 @@
-package cn.siques.手写RPC框架.server.service.impl;
+package cn.siques.手写RPC框架.server.config;
 
 import java.io.IOException;
 import java.io.InputStream;

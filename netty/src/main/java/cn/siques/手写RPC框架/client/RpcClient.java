@@ -1,7 +1,8 @@
 package cn.siques.手写RPC框架.client;
 
-import cn.siques.手写RPC框架.server.MessageCodec;
-import cn.siques.手写RPC框架.server.ProtoFrameDecoder;
+import cn.siques.手写RPC框架.message.RpcRequestMsg;
+import cn.siques.手写RPC框架.codec.MessageCodec;
+import cn.siques.手写RPC框架.codec.ProtoFrameDecoder;
 import io.netty.bootstrap.Bootstrap;
 import io.netty.channel.Channel;
 import io.netty.channel.ChannelInitializer;

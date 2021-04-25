@@ -1,6 +1,7 @@
-package cn.siques.手写RPC框架.server;
+package cn.siques.手写RPC框架.codec;
 
-import cn.siques.手写RPC框架.server.service.impl.Config;
+import cn.siques.手写RPC框架.message.Message;
+import cn.siques.手写RPC框架.serializer.Serializer;
 import io.netty.buffer.ByteBuf;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.handler.codec.MessageToMessageCodec;
@@ -11,7 +12,7 @@ import java.util.List;
  * @author : heshenghao
  * @date : 17:19 2021/4/24
  */
-public class MessageCodec extends MessageToMessageCodec<ByteBuf,Message> {
+public class MessageCodec extends MessageToMessageCodec<ByteBuf, Message> {
     /**
      * 将消息转换为byte数组传输
      * @param ctx

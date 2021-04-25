@@ -1,6 +1,5 @@
-package cn.siques.手写RPC框架.server;
+package cn.siques.手写RPC框架.message;
 
-import cn.siques.手写RPC框架.client.RpcRequestMsg;
 import lombok.Data;
 
 import java.io.Serializable;

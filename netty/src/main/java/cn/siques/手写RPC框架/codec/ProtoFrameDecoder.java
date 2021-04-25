@@ -1,4 +1,4 @@
-package cn.siques.手写RPC框架.server;
+package cn.siques.手写RPC框架.codec;
 
 import io.netty.handler.codec.LengthFieldBasedFrameDecoder;
 import sun.dc.pr.PRError;

@@ -1,7 +1,7 @@
-package cn.siques.手写RPC框架.client;
+package cn.siques.手写RPC框架.message;
 
 
-import cn.siques.手写RPC框架.server.Message;
+import cn.siques.手写RPC框架.message.Message;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 

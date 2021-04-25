@@ -1,6 +1,6 @@
 package cn.siques.手写RPC框架.client;
 
-import cn.siques.手写RPC框架.server.RpcResponseMsg;
+import cn.siques.手写RPC框架.message.RpcResponseMsg;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.SimpleChannelInboundHandler;
 import io.netty.util.concurrent.Promise;
