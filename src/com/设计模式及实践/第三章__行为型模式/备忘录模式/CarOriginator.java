@@ -38,7 +38,7 @@ class CarCaretaker{
     }
     
     public void runMechanicTest(){
-        CarOriginator.Memento savedState = new CarOriginator.Memento("");
+        CarOriginator.Memento savedState;
         CarOriginator originator = new CarOriginator();
         originator.setState("State1");
         originator.setState("State2");
