@@ -14,7 +14,6 @@ out/
 .settings
 .springBeans
 .sts4-cache
-application.yml
 
 ### IntelliJ IDEA ###
 *.iws

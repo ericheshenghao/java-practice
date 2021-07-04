@@ -1,0 +1,24 @@
+
+spring:
+  application:
+    name: rpc-consumer
+  cloud:
+    nacos:
+      discovery:
+        namespace: 5642eb84-60d0-42f3-83d7-1fb41c965cf2
+        server-addr: http://nacos.siques.cn:8848
+        username: nacos
+        password: heshenghao
+        group: DEV_GROUP
+dubbo:
+  scan:
+    base-packages: cn.siques
+  protocol:
+    name: dubbo
+    port: -1
+  registry:
+    address: spring-cloud://nacos.siques.cn
+  cloud:
+    subscribed-services: rpc-provider
+server:
+  port: 9090
