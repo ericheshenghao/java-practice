@@ -9,3 +9,5 @@ spring:
         username: nacos
         password: heshenghao
         group: DEV_GROUP
+        metadata:
+          rpcPort: 11001
